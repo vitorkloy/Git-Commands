@@ -43,6 +43,7 @@ git push -u origin main
 * `git config --global user.email "seu@email.com"` — Define o e-mail do usuário.
 * `git config --global core.editor "nome_do_editor"` — Define o editor padrão (`vim`, `nano`, etc).
 * `git config --list` — Lista todas as configurações atuais.
+* `git config --global --list` — Lista todas as configurações do Git definidas no nível global
 
 ---
 
